@@ -98,3 +98,25 @@ body{
 .fa-message{
     padding-left: 10px;
 }
+/* footer part */
+footer{
+    background-color: black;
+    height: 200px;
+    margin-top: 80px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+hr{
+    width: 90%;
+}
+.footer-sec ul li{
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 40px;
+    margin-left: 60px;
+}
+.footer-sec ul{
+    display: flex;
+}
