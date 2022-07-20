@@ -152,7 +152,7 @@ hr{
     .header{
         width: 55%;
         height: 80%;
-        margin-left: 15px;
+        margin-left: 10px;
     }
     .header-img img{
         width: 100%;
@@ -164,12 +164,12 @@ hr{
     }
     .main-part{
         width: 90%;
-        margin-left: 20px;
+        margin-left: 15px;
     }
     .main-content{
         display: grid;
         grid-template-columns: repeat(1, 1fr);
-        padding-left: 50px;
+        padding-left: 30px;
         
     }
     .content{
