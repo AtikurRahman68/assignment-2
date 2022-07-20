@@ -1,0 +1,25 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Lobster&family=Poppins:wght@400;500&family=The+Nautigal:wght@400;700&family=Titan+One&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header starts */
+.header{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    border-radius: 15px;
+    padding-top: 40px;
+    padding-left: 80px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.head h1{
+    font-size: 30px;
+}
+.header-img img{
+    padding-left: 50px;
+}
